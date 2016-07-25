@@ -7,7 +7,7 @@
   "assets": {
     "container": {
       "docker": {
-        "jenkins-100-16513": "mesosphere/jenkins:1.0.0-1.651.3"
+        "jenkins-200-271": "mesosphere/jenkins-dev:bump-jenkins-version"
       }
     }
   }
